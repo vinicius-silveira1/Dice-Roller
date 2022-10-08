@@ -1,4 +1,4 @@
-# Dice Roller App
+# :game_die: Dice Roller App
 
 Android App made to practice building interactive components with Kotlin and Android Studio
 
