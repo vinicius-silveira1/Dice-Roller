@@ -3,8 +3,10 @@
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.wrapContentSize
+import androidx.compose.material.Button
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.material.Text
@@ -40,6 +42,15 @@ fun DiceWithButtonAndImage(
         .fillMaxSize()
         .wrapContentSize(Alignment.Center)
 ) {
+    Column(
+        modifier = modifier,
+        horizontalAlignment = Alignment.CenterHorizontally
 
+    ) {
+        Button(onClick = { /*TODO*/ }) {
+            Text(text = "Roll")
+            
+        }
 
+    }
 }
