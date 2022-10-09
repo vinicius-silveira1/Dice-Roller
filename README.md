@@ -4,8 +4,7 @@ Android App made to practice building interactive components with Kotlin and And
 
 ### :camera: Screenshot
 
-![image](https://user-images.githubusercontent.com/92500615/194725164-40110c79-bf55-438c-91d5-8b1586b52151.png)
-
+![Screenshot_20221009-184600_Dice Roller](https://user-images.githubusercontent.com/92500615/194780890-68b1435a-a38c-418a-a63c-02a5d837d045.jpg)
 
 ### :bulb: Built with
 
